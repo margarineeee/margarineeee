@@ -16,4 +16,4 @@
 <hr>
 <p align="left">that would be all! thanks for taking the time to read ♡
 <p align="left">if you want to reach out! | discord: margarinee
-<img src="https://i.pinimg.com/736x/1c/d8/07/1cd80751f6d6ddabdba8389cbc9c1474.jpg" width=50% height=50% align=right>
+<img src="https://i.pinimg.com/736x/1c/d8/07/1cd80751f6d6ddabdba8389cbc9c1474.jpg" width=40% height=40% align=right>
