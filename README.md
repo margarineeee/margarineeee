@@ -5,7 +5,7 @@
 <h4 align=center>☆current main interests</h4>
 <p align="center">skz <i>(attended dominATE tour!)</i>, tgswiiwagaa, omori, ddlc, cats meow meow</p>
 <h4 align=center>☆other/sub-interests</h4>
-<p align="center">animangas <i>(jjk, sakadays, tad/knh, etc)</i>, pjsk <i>(casual-ish player)</i>
+<p align="center">alnst, animangas <i>(jjk, sakadays, tad/knh, etc)</i>, pjsk <i>(casual-ish player)</i>
 <p align="center">some shows like inside job, south park, ehh idk <i>(pls reco)</i>
 <p align="center">currently watching: witch hat atelier, dungeon meshi
 <p align="center">get to know me more to find out what else ik! i promise i know a bit of ball...
