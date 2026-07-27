@@ -1,4 +1,4 @@
-<p align="center">hi! i'm <b>meo/margarinee</b>; here's a quick get to know me:3</p>
+<p align="center">hi! i'm <b>meo</b>; here's a quick get to know me:3</p>
 <hr>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/a2/77/75/a277751fe953959c40339c2bc88cda3d.jpg" width="500" height="150">
